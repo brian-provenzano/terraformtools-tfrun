@@ -1,4 +1,4 @@
-# Simple Terraform Wrapper script
+# Terraform Wrapper script
 
 #### This script is a wrapper around terraform in order to help enforce some 'guardrails' for the user to prevent accidents (e.g. accidental 'terraform apply' on production, etc).  I thought it would be useful (it is..), so maybe you will too.
 
